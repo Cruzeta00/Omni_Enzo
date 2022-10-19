@@ -42,6 +42,7 @@ internal class Program
 
         app.MapRazorPages();
 
+
         app.Run();
     }
 }
